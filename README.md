@@ -47,6 +47,3 @@ I am passionate about FrontEnd dev and in my spare time I am looking to improve 
 </a>
 
 </p>
-
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=david__chaves&layout=wide&show_reply=off&show_retweet=off" />
-
