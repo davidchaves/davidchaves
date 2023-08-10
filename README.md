@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm David</h1>
 
-I am passionate about FrontEnd dev and in my spare time I am looking to improve my knowledge🌱...
+I am passionate about technologies  and in my spare time I am looking to improve my knowledge🌱...
 
 <strong>About me:</strong>
 - 🔭 I'm currently in search of an opportunity to develop and improve my knowledge.
