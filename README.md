@@ -4,7 +4,7 @@ I am passionate about technologies  and in my spare time I am looking to improve
 
 <strong>About me:</strong>
 - 🔭 I'm currently in search of an opportunity to develop and improve my knowledge.
-- 📚 I’m currently learning Javascript and ReactJS at <a href="https://www.rocketseat.com.br/">Rocketseat 💜</a>
+- 📚 I’m currently learning Santander Bootcamp -  Mobile Android with Kotlin [dio.me/en](DIO)
 - 💬 Ask me about anything.
 
 <br><br>
