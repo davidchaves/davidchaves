@@ -4,7 +4,7 @@ I am passionate about technologies  and in my spare time I am looking to improve
 
 <strong>About me:</strong>
 - 🔭 I'm currently in search of an opportunity to develop and improve my knowledge.
-- 📚 I’m currently learning Santander Bootcamp -  Mobile Android with Kotlin [DIO](https://www.dio.me/en)
+- 📚 I’m currently learning Full Stack Jr. [+praTI](https://maisprati.com.br/) and [Codifica Edu](https://www.codificaedu.com.br/).
 - 💬 Ask me about anything.
 
 <br><br>
